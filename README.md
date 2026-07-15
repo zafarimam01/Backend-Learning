@@ -1,33 +1,81 @@
-# Backend-Learning 🚀
-### A structured roadmap of my backend development learning with hands-on projects and documentation.
-## Welcome to my backend development learning repository.
+# 🚀 Backend Learning
 
-## Goals
-- Learn backend development from scratch
-- Build real-world backend projects
-- Master REST APIs
-- Learn SQL & NoSQL databases
-- Understand authentication & authorization
-- Learn Docker and deployment
-- Improve system design fundamentals
+<p align="center">
+  <strong>Documenting my journey to becoming a Backend Developer.</strong>
+</p>
 
-## Roadmap
+---
 
+## 🎯 Goal
+
+This repository contains my backend development learning journey, including:
+
+- 📚 Notes
+- 💻 Code examples
+- 🛠️ Mini Projects
+- 📝 Daily Progress
+- 📖 Resources
+
+---
+
+## 🗺️ Roadmap
+
+- [x] Repository Setup
 - [ ] Git & GitHub
 - [ ] Linux
 - [ ] Modern C++
-- [ ] SQL
-- [ ] PostgreSQL / MySQL
+- [ ] Networking
+- [ ] HTTP & HTTPS
 - [ ] REST APIs
-- [ ] Crow/Drogon
+- [ ] SQL
+- [ ] PostgreSQL
 - [ ] MongoDB
+- [ ] Authentication
+- [ ] JWT
 - [ ] Redis
 - [ ] Docker
 - [ ] Testing
+- [ ] System Design
 - [ ] Deployment
 
-## Projects
-Coming soon...
+---
 
-## Progress
-⭐ Updating regularly as I learn.
+## 📂 Repository Structure
+
+```text
+Backend-Learning/
+│
+├── 01-Git
+├── 02-Linux
+├── 03-Modern-CPP
+├── 04-Networking
+├── 05-HTTP-HTTPS
+├── 06-REST-API
+├── 07-SQL
+├── 08-PostgreSQL
+├── 09-MongoDB
+├── 10-Authentication
+├── 11-JWT
+├── 12-Redis
+├── 13-Docker
+├── 14-Testing
+├── 15-System-Design
+├── 16-Deployment
+├── 17-Mini-Projects
+├── 18-Resources
+└── 19-Progress
+```
+
+---
+
+## 📈 Progress
+
+I update this repository regularly as I learn new backend concepts and build projects.
+
+---
+
+## 🎯 Long-Term Goal
+
+Build scalable backend systems and become a software engineer capable of designing production-ready applications.
+
+⭐ If you find this repository helpful, feel free to star it.
