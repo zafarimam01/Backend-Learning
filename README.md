@@ -21,7 +21,7 @@ This repository contains my backend development learning journey, including:
 ## 🗺️ Roadmap
 
 - [x] Repository Setup
-- [ ] Git & GitHub
+- [x] Git & GitHub
 - [ ] Linux
 - [ ] Modern C++
 - [ ] Networking
